@@ -12,19 +12,19 @@ I'm looking to grow my experience and my skills with maximum training.
 New projects will arrive!</h3>
 
 ## Contact Me :
-<a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/linkedin.jpg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/linkedin.jpg" alt="linkedin" height="50" width="50" image="cover" /></a>
 
 ## 💻 **WEB DEV**
-<p align="left" ><img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/JavaScript.png" width="50" height="50">
+<p align="left" image="cover"><img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/JavaScript.png" width="50" height="50">
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/HTML5.png" width="50" height="50">
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/css3.png" width="50" height="50">
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50"></p>
 
 ## 📱 **WEB MOBILE**
-<p align="left" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50"></p>
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50"></p>
 
 ## ⚙️ **BACKEND DEV**
-<p align="left" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50">
+<p align="left" image="cover" > 
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Node.js.png" width="50" height="50">
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/axios.png" width="50" height="50">
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/express.png" width="50" height="50">
@@ -32,7 +32,7 @@ New projects will arrive!</h3>
 
 
 ## 📂 **DATA BASE**
-<p align="left" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/mongo.png" width="50" height="50"></p>
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/mongo.png" width="50" height="50"></p>
 
 
 
