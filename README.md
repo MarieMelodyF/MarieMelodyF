@@ -1,5 +1,5 @@
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="200" height="200" align="center">
-
+<p align="center"><img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="300" height="200" >
+</p> 
 
 
 ### Hi there 👋
