@@ -1,17 +1,17 @@
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="200" height="200">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="200" height="200" align="center">
 
 
 
 ### Hi there 👋
 
-<h3>I am a web development student 🙎🏻‍♀.
+<h3 align="center" >I am a web development student 🙎🏻‍♀.
 Here you will find projects created during my short training. 
 Please, be indulgent 🤟🏼 !
 Very passionate about web development, 
 I'm looking to grow my experience and my skills with maximum training.
 New projects will arrive!</h3>
 
-<a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="****" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/linkedin.jpg" alt="linkedin" height="30" width="40" /></a>
 
 
 
