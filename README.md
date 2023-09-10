@@ -21,7 +21,7 @@ New projects will arrive!</h3>
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50"></p>
 
 ## 📱 **WEB MOBILE**
-<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react%20nativ.png" width="50" height="50"></p>
+<p align="left" image="contain" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react%20nativ.png" width="70" height="70"></p>
 
 ## ⚙️ **BACKEND DEV**
 <p align="left" image="cover" > 
