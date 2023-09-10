@@ -25,20 +25,20 @@ New projects will arrive!</h3>
 
 ## ⚙️ **BACKEND DEV**
 <p align="left" image="cover" > 
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Node.js.png" width="70" height="40">
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/axios.png" width="70" height="40">
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/express.png" width="70" height="40">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Node.js.png" width="80" height="40">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/axios.png" width="80" height="40">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/express.png" width="80" height="40">
 </p>
 
 
 ## 📂 **DATA BASE**
-<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/MongoDB-Logo.png" width="70" height="50"></p>
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/MongoDB-Logo.png" width="80" height="50"></p>
 
 
 
 ## 🛠️ **DEV TOOLS**
-<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/npm-logo.png" width="70" height="40">
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Postman.png" width="70" height="40">
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/npm-logo.png" width="80" height="40">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Postman.png" width="80" height="40">
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/GitHub-Mark.png" width="50" height="50">
 
 </p>
