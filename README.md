@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="300" height="200" >
+<p align="center"><img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="250" height="250" >
 </p> 
 
 
