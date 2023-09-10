@@ -21,18 +21,34 @@ New projects will arrive!</h3>
 <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50"></p>
 
 ## 📱 **WEB MOBILE**
-<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react.png" width="50" height="50"></p>
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/react%20nativ.png" width="50" height="50"></p>
 
 ## ⚙️ **BACKEND DEV**
 <p align="left" image="cover" > 
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Node.js.png" width="50" height="50">
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/axios.png" width="50" height="50">
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/express.png" width="50" height="50">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Node.js.png" width="50" height="70">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/axios.png" width="50" height="70">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/express.png" width="50" height="70">
 </p>
 
 
 ## 📂 **DATA BASE**
-<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/mongo.png" width="50" height="50"></p>
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/MongoDB-Logo.png" width="50" height="50"></p>
+
+
+
+## 🛠️ **DEV TOOLS**
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/npm-logo.png" width="50" height="50">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/Postman.png" width="50" height="50">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/GitHub-Mark.png" width="50" height="50">
+
+</p>
+
+## 🖥️  **CODE EDITOR**
+<p align="left" image="cover" > <img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/visual-studio-code-1.svg" width="50" height="50"></p>
+
+
+
+
 
 
 
