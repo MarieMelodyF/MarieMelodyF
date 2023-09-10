@@ -1,4 +1,4 @@
-<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="100" height="100">
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="200" height="200">
 
 
 
