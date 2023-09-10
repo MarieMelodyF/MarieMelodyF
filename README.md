@@ -9,7 +9,7 @@ Here you will find projects created during my short training.
 Please, be indulgent 🤟🏼 !
 Very passionate about web development, 
 I'm looking to grow my experience and my skills with maximum training.
-New projects will arrive!</h3>
+New projects will are coming !</h3>
 
 ## Contact Me :
 <a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/images/linkedin.jpg" alt="linkedin" height="50" width="50" image="cover" /></a>
