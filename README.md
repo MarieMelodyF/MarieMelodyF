@@ -1,4 +1,5 @@
-![Head](https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true)
+<img src="https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true" width="48">
+
 
 
 ### Hi there 👋
@@ -10,7 +11,7 @@ Very passionate about web development,
 I'm looking to grow my experience and my skills with maximum training.
 New projects will arrive!</h3>
 
-<a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.vecteezy.com%2Fpng%2F18930587-logo-linkedin-png-icone-linkedin-png-transparent&psig=AOvVaw358f4bUDqvj7a5tK6PZX0e&ust=1694442545512000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi9w8KgoIEDFQAAAAAdAAAAABAD" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marie-melody-fontana-250205a7/" target="blank"><img align="center" src="****" alt="linkedin" height="30" width="40" /></a>
 
 
 
