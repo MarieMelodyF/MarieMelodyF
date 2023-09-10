@@ -1,4 +1,4 @@
-![Head](./logo.png)
+![Head](https://github.com/MarieMelodyF/MarieMelodyF/blob/main/Logo.png?raw=true)
 
 
 ### Hi there 👋
